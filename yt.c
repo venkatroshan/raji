@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	int a,n,b,sum=0;
 	scanf("%d",&n);
@@ -18,6 +18,6 @@ int main()
 	{
 		printf("not a palindrome");
 	}
-	return 0;
 	
-}
+	
+
